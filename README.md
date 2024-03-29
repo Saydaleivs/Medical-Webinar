@@ -33,7 +33,6 @@ The Medical Webinar Application is a platform designed for healthcare profession
 ### Prerequisites
 
 - ✅ Node.js installed on your machine
-- 🛢️ MongoDB installed and running locally
 - 🎨 Flutter SDK installed
 
 ### Installation
